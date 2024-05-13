@@ -1,7 +1,7 @@
 # SistemaLoja-Node.js
 Antes de executar o projeto, instale as dependências com "npm i", e após, inicie utilizando "npm start".
 
-Enunciado da Projeto:
+Enunciado do Projeto:
 
 1 - Crie um projeto Node com o nome SistemaLoja.
 
