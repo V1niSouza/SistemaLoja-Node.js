@@ -9,9 +9,9 @@ Enunciado da Projeto:
 
 3 – Seu projeto deve conter 4 rotas: index, clientes, produtos e pedidos.
 
-– Na rota index e nas demais, incluir um menu (navbar) direcionando para as outras rotas do site.
+- Na rota index e nas demais, incluir um menu (navbar) direcionando para as outras rotas do site.
 
-– Na rota clientes, uma tabela de clientes deve ser exibida contendo nome, cpf e endereço do cliente. 
+- Na rota clientes, uma tabela de clientes deve ser exibida contendo nome, cpf e endereço do cliente. 
 
 - Na rota produtos, uma tabela de produtos deve ser exibida contendo nome do produto, preço e categoria.
 
