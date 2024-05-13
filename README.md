@@ -3,7 +3,7 @@ Antes de executar o projeto, instale as dependências com "npm i", e após, inic
 
 Enunciado da Projeto:
 
-1 - Crie um projeto Node com o nome SistemaLoja. 
+1 - Crie um projeto Node com o nome SistemaLoja.
 2 - Realize a instalação das dependências necessárias para o projeto através do NPM.
 3 – Seu projeto deve conter 4 rotas: index, clientes, produtos e pedidos.
 – Na rota index e nas demais, incluir um menu (navbar) direcionando para as outras rotas do site.
