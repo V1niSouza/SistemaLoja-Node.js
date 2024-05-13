@@ -16,5 +16,6 @@ Enunciado da Projeto:
 - Na rota pedidos, uma tabela de pedidos deve ser exibida contendo o número do pedido e o valor.
 
 4 – Os dados exibidos nas rotas deverão ser passados as páginas através de um array de objetos.
+
 5 – Preencher as tabelas com no mínimo 4 linhas de dados.
 
